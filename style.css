@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    background-image: linear-gradient( to bottom, #f6f5f3,#5da0c6) ;
+    background-attachment: fixed;
+    font-family: Tahoma;
+}
+
+.secao{
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.imagem-logotipo{
+    width: 300px;
+    border-radius: 10px;
+}
+
+a{
+    margin: 0 10px;
+    color: rgb(235, 111, 166);
+}
+
+h1{
+    font-size: 28px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 1px solid #4a78e2; 
+}
+
+h2{
+    font-weight: normal;
+    color:#4a78e2;
+    margin-top: 10px;
+}
+
+.imagem-banner{
+    width: 700px;
+}
+
+.secao-destaque{
+    background-image: url(https://png.pngtree.com/background/20221226/original/pngtree-transparent-colorful-bubbles-background-poster-display-board-background-bubbles-elements-background-picture-image_1988518.jpg) ;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: rgb(0, 0, 0);
+}
+
+.secao-destaque h3{
+    font-size: 24px;
+}
+
+.secao-destaque h4{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.secao-destaque p{
+    width: 500px;
+    margin: 0 auto;
+    line-height: 30px;
+}
+
+.secao-destaque img{
+    width: 400px;
+}
+
+span{
+    font-weight: bold;
+}
